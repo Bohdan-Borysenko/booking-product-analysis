@@ -1,4 +1,4 @@
-<img width="604" height="373" alt="retention" src="https://github.com/user-attachments/assets/29323390-b948-4e13-bf38-6b7ef858652f" /># booking-product-analysis
+
 # Booking.com Product Analysis
 
 Product case study: funnel analysis and growth hypotheses for travel SaaS.
